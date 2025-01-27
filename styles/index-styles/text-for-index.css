@@ -1,19 +1,19 @@
 
 @font-face {
   font-family: "headerFont";
-  src: url("fonts/NoisyWalk.ttf") format("ttf");
+  src: url("fonts/NoisyWalk.ttf") format("truetype");
   
 }
 @font-face {
   font-family: "paragraphFont";
-  src: url("fonts/THE BOLD FONT - FREE VERSION - 2023.otf") format("otf");
-  font-display: swap;
+  src: url("fonts/THE BOLD FONT - FREE VERSION - 2023.otf") format("opentype");
+  
 }
 
 @font-face {
   font-family: "footerFont";
-  src: url("fonts/KOMIKAX_.ttf") format("ttf");
-  font-display: swap;
+  src: url("fonts/KOMIKAX_.ttf") format("truetype");
+  
 }
 
 
