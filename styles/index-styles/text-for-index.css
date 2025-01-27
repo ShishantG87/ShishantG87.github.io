@@ -1,18 +1,18 @@
 
 @font-face {
   font-family: "headerFont";
-  src: url("fonts/NoisyWalk.ttf") format("truetype");
+  src: url("https://ShishantG87.github.io/fonts/NoisyWalk.ttf") format("truetype");
   
 }
 @font-face {
   font-family: "paragraphFont";
-  src: url("fonts/boldFont.otf") format("opentype");
+  src: url("https://ShishantG87.github.io/fonts/boldFont.otf") format("opentype");
   
 }
 
 @font-face {
   font-family: "footerFont";
-  src: url("fonts/KOMIKAX_.ttf") format("truetype");
+  src: url("https://ShishantG87.github.io/fonts/KOMIKAX_.ttf") format("truetype");
   
 }
 
