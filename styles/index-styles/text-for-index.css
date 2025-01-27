@@ -8,7 +8,7 @@ p {
 
 @font-face {
   font-family: "headerFont";
-  src: url("fonts/NoisyWalk.ttf") format("opentype");
+  src: url("fonts/NoisyWalk.ttf") format("truetype");
   
 }
 @font-face {
@@ -19,7 +19,7 @@ p {
 
 @font-face {
   font-family: "footerFont";
-  src: url("fonts/KOMIKAX_.ttf") format("opentype");
+  src: url("fonts/KOMIKAX_.ttf") format("truetype");
   font-display: swap;
 }
 
