@@ -1,0 +1,43 @@
+h1,h2 {
+  font-family: "headerFont";
+  color: rgb(29, 29, 29);
+}
+p {
+  font-family: "paragraphFont";
+}
+
+@font-face {
+  font-family: "headerFont";
+  src: url(fonts/NoisyWalk.ttf);
+  
+}
+@font-face {
+  font-family: "paragraphFont";
+  src: url(fonts/THE\ BOLD\ FONT\ -\ FREE\ VERSION\ -\ 2023.otf);
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "footerFont";
+  src: url(fonts/KOMIKAX_.ttf);
+  font-display: swap;
+}
+
+.glow {
+  
+  text-shadow: 0 0 5px #e0e0e0, 0 0 5px #ffffff, 0 0 25px #7e6868;
+  color: rgb(37, 37, 37)
+  
+}
+
+.footer-links {
+  font-size: small;
+  font-family: "footerFont";
+  color: #9e9696;
+}
+
+.footer-credit {
+  
+  font-family: "footerFont";
+  color: #9e9696;
+}
