@@ -8,18 +8,18 @@ p {
 
 @font-face {
   font-family: "headerFont";
-  src: url("fonts/NoisyWalk.ttf");
+  src: url("fonts/NoisyWalk.ttf") format("opentype");
   
 }
 @font-face {
   font-family: "paragraphFont";
-  src: url("fonts/THE BOLD FONT - FREE VERSION - 2023.otf");
+  src: url("fonts/THE BOLD FONT - FREE VERSION - 2023.otf") format("opentype");
   font-display: swap;
 }
 
 @font-face {
   font-family: "footerFont";
-  src: url("fonts/KOMIKAX_.ttf");
+  src: url("fonts/KOMIKAX_.ttf") format("opentype");
   font-display: swap;
 }
 
