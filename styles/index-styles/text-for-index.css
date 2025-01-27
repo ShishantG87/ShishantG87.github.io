@@ -17,11 +17,11 @@
 }
 
 
-h1,h2 {
+h1 {
   font-family: "headerFont";
   color: rgb(29, 29, 29);
 }
-p {
+p, h2 {
   font-family: "paragraphFont";
 }
 
