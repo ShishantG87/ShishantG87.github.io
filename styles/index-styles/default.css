@@ -16,6 +16,8 @@ body {
 
 a {
   color:  rgb(29, 29, 29);
+  position: relative;
+  transition: transform 0.3s ease, color 0.3s ease;
 }
 
 
