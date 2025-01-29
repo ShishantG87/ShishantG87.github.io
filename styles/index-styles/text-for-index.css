@@ -1,27 +1,26 @@
-
 @font-face {
   font-family: "headerFont";
-  src: url("https://ShishantG87.github.io/fonts/NoisyWalk.ttf") format("truetype");
-  
+  src: url("https://ShishantG87.github.io/fonts/NoisyWalk.ttf")
+    format("truetype");
 }
 @font-face {
   font-family: "paragraphFont";
-  src: url("https://ShishantG87.github.io/fonts/boldFont.otf") format("opentype");
-  
+  src: url("https://ShishantG87.github.io/fonts/boldFont.otf")
+    format("opentype");
 }
 
 @font-face {
   font-family: "footerFont";
-  src: url("https://ShishantG87.github.io/fonts/KOMIKAX_.ttf") format("truetype");
-  
+  src: url("https://ShishantG87.github.io/fonts/KOMIKAX_.ttf")
+    format("truetype");
 }
-
 
 h1 {
   font-family: "headerFont";
   color: rgb(29, 29, 29);
 }
-p, h2 {
+p,
+h2 {
   font-family: "paragraphFont";
   color: #ffe8e8;
 }
@@ -29,14 +28,11 @@ p, h2 {
 .special-h2 {
   font-family: "headerFont";
   color: #ffe8e8;
-  text-shadow: 0 0 1px #000000, 0 0 5px #000000, 0 0 25px 
-  
+  text-shadow: 0 0 1px #000000, 0 0 5px #000000, 0 0 25px;
 }
 .glow {
-  
   text-shadow: 0 0 0px #e0e0e0, 0 0 3px #ffffff, 0 0 1px #7e6868;
-  color: rgb(37, 37, 37)
-  
+  color: rgb(37, 37, 37);
 }
 
 .footer-links {
@@ -46,7 +42,17 @@ p, h2 {
 }
 
 .footer-credit {
-  
   font-family: "footerFont";
   color: #ffe8e8;
+}
+
+.body-link,
+.body-link:visited {
+  text-shadow: 0 0 0px #e0e0e0, 0 0 2px #ffe8e8, 0 0 1px #ffe8e8;
+  font-family: "paragraphFont";
+  color: #ffe8e8;
+}
+.body-link:hover {
+  font-family: "paragraphFont";
+  color: #000000;
 }
